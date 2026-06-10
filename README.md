@@ -31,9 +31,9 @@ A cross-platform mobile app that makes saving money feel like a treasure hunt:
 
 ### Screenshots
 
-| Map | Flyer deck | Offer swipe | Shared list |
+| Map | Flyer deck | Offer swipe | Gamification |
 |---|---|---|---|
-| ![map](assets/01_map.png) | ![deck](assets/02_flyer_deck.png) | ![swipe](assets/03_offer_swipe.png) | ![list](assets/04_shared_list.png) |
+| ![map](assets/01_map.jpg) | ![deck](assets/02_flyer_deck.jpg) | ![swipe](assets/03_offer_swipe.jpg) | ![profile](assets/04_profile_gamification.jpg) |
 
 ## How the data gets in: the ingestion pipeline
 
@@ -70,7 +70,7 @@ Built entirely by **Josias Gaius Tsaamo Momo** — solo technical founder based 
 
 Also on my GitHub: [blender-claude-mcp](https://github.com/Gaius114/blender-claude-mcp) and [unity-claude-mcp](https://github.com/Gaius114/unity-claude-mcp) — HTTP bridges that let an AI agent drive Blender and Unity with a feedback loop.
 
-📫 Contact: `[email]` · `[website]` · `[LinkedIn]`
+📫 Contact: tmjgaius@gmail.com · [gethuntly.eu](https://www.gethuntly.eu)
 
 ---
 © 2026 — All rights reserved. The Huntly codebase is proprietary; this repository exists for demonstration purposes.

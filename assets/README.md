@@ -1,17 +1,22 @@
-# Screenshots — DA CATTURARE (reali, dall'app vera)
+# Screenshots — stato
 
-> ⚠️ NON usare i mockup AI del sito web (riconoscibili e controproducenti con valutatori tecnici).
-> Catturare dall'app in esecuzione (emulatore o S24), in italiano va bene — fa "prodotto vero".
+✅ Già presenti:
+- `01_map.jpg` — mappa (zona San Benedetto; DA SOSTITUIRE con versione su Bologna, vedi sotto)
+- `04_profile_gamification.jpg` — profilo con livelli/XP/badge ✔ definitivo
 
-Lista scatti (salvare qui con questi nomi esatti, PNG, portrait):
+❌ Mancanti — da catturare **con posizione simulata su Bologna centro** (dove ci sono i volantini e le 623k offerte; a San Benedetto l'app è vuota):
+- `02_flyer_deck.jpg` — deck copertine volantini ("Sfoglia offerte")
+- `03_offer_swipe.jpg` — card offerta con prodotto e prezzo ben visibili
+- `01_map.jpg` (ri-cattura) — mappa con pin dei negozi e conteggi offerte
 
-1. `01_map.png` — mappa con pin dei negozi e conteggi offerte (zona con densità alta, es. Bologna)
-2. `02_flyer_deck.png` — deck delle copertine volantini ("Sfoglia offerte")
-3. `03_offer_swipe.png` — card offerta in primo piano (prodotto con prezzo ben visibile)
-4. `04_shared_list.png` — lista della spesa condivisa con qualche elemento
+## Come simulare la posizione su Bologna
 
-Facoltativi (se belli): profilo con badge/XP, report risparmio, comparazione prezzi.
+**Opzione A — sul telefono (S24):** Impostazioni → Opzioni sviluppatore → "Seleziona app posizione fittizia" → installare un'app tipo "Fake GPS Location" dal Play Store → impostare Bologna centro (44.494, 11.343) → aprire Huntly.
 
-Consigli: status bar pulita (batteria carica, niente notifiche), stessa ora su tutti gli scatti, dispositivo con buona risoluzione. Dopo averli messi qui: `git add assets && git commit -m "Add app screenshots" && git push`.
+**Opzione B — emulatore Android Studio:** ⋮ Extended controls → Location → cercare Bologna → Set location → avviare l'app.
 
-Questo file può essere cancellato una volta caricati gli screenshot.
+Dopo la cattura: copiare qui i file con i nomi esatti, poi:
+```
+git add assets && git commit -m "Add app screenshots" && git push
+```
+Questo file si può cancellare quando gli screenshot sono completi.
