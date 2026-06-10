@@ -31,9 +31,11 @@ A cross-platform mobile app that makes saving money feel like a treasure hunt:
 
 ### Screenshots
 
-| Map | Flyer deck | Offer swipe | Gamification |
-|---|---|---|---|
-| ![map](assets/01_map.jpg) | ![deck](assets/02_flyer_deck.jpg) | ![swipe](assets/03_offer_swipe.jpg) | ![profile](assets/04_profile_gamification.jpg) |
+| Map (live store clusters) | Saved deals — leaflet-cropped visuals | Gamification |
+|---|---|---|
+| ![map](assets/01_map.jpg) | ![deals](assets/02_saved_deals.jpg) | ![profile](assets/04_profile_gamification.jpg) |
+
+*The product images in the middle screenshot are automatic crops from the original paper leaflet — output of the ingestion pipeline described below.*
 
 ## How the data gets in: the ingestion pipeline
 
