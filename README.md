@@ -72,7 +72,7 @@ Built entirely by **Josias Gaius Tsaamo Momo** — solo technical founder based 
 
 Also on my GitHub: [blender-claude-mcp](https://github.com/Gaius114/blender-claude-mcp) and [unity-claude-mcp](https://github.com/Gaius114/unity-claude-mcp) — HTTP bridges that let an AI agent drive Blender and Unity with a feedback loop.
 
-📫 Contact: tmjgaius@gmail.com · [gethuntly.eu](https://www.gethuntly.eu)
+📫 Contact: tmjgaius@gmail.com · [gethuntly.eu](https://www.gethuntly.eu) · [LinkedIn](https://www.linkedin.com/in/gaius-tsaamo)
 
 ---
 © 2026 — All rights reserved. The Huntly codebase is proprietary; this repository exists for demonstration purposes.
