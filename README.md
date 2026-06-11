@@ -1,6 +1,6 @@
 # Huntly 🦌
 
-**Turning local commerce digital — starting from paper supermarket leaflets, heading to the forgotten businesses of rural Europe.**
+**Turning local commerce digital — from metropolitan supermarkets to the forgotten businesses of rural Europe.**
 
 > ⚠️ This is a public **showcase** of a private, production codebase built end-to-end by a solo founder. The numbers below are live database counts, not projections.
 
@@ -56,9 +56,9 @@ flowchart LR
 
 **Stack**: Flutter (Riverpod, go_router) · Supabase (Postgres, RLS, RPC, realtime) · Python ingestion backend (Docker) · Mapbox · Firebase (FCM, Analytics, Crashlytics) · Sentry · Hive (offline-first cache) · Astro (web)
 
-## Where it's going: the rural pivot
+## Where it's going: local commerce, everywhere
 
-Huntly is evolving from a grocery-deals aggregator into the **digital infrastructure for local commerce in rural areas**, starting from the Bolognese Apennines — where I live:
+Huntly is evolving from a grocery-deals aggregator into the **digital infrastructure for local commerce** — cities included (Bologna's supermarkets are already live on the platform). The expansion starts from rural areas because that's where the need is sharpest and the competition absent, beginning with the Bolognese Apennines — where I live:
 
 1. **Free, concierge-quality digital storefronts** for small businesses: we visit each merchant, shoot the content, build the page. Zero tech barrier, zero cost for them.
 2. **Menus as browsable cards** — a restaurant's menu becomes swipeable cards (dish, price, ingredients, allergens), reusing the exact UX users already know from leaflets.
